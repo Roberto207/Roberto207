@@ -24,11 +24,12 @@ Meu objetivo é evoluir constantemente e transformar conhecimento em soluções 
 
 - Python
 - FastAPI
-- PostgreSQL
+- PostgreSQL e SQLAlchemy
+- Railway cloud 
 - Integracões   
 - Git & GitHub  
 - Automação com Python  
-- Arquitetura de APIs REST (CRUD, autenticação OAuth2, migrations)
+- Arquitetura de APIs REST (CRUD, autenticação OAuth2, migrations,JWT)
  
 
 ---
