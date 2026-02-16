@@ -22,20 +22,24 @@ Meu objetivo é evoluir constantemente e transformar conhecimento em soluções 
   <img src="https://skillicons.dev/icons?i=python,git,github" />
 </p>
 
-- Python  
+- Python
+- FastAPI
+- PostgreSQL
+- Integracões   
 - Git & GitHub  
 - Automação com Python  
-- Conceitos de APIs e Backend  
+- Arquitetura de APIs REST (CRUD, autenticação OAuth2, migrations)
+ 
 
 ---
 
 ## 🎯 Foco Atual
 
 - Desenvolvimento Backend com Python  
-- Criação de APIs REST  
+- Criação de APIs REST E Banco de Dados 
 - Estruturação de projetos e Databases profissionais  
 - Versionamento e boas práticas com Git  
-- Estudo de IA e automação  
+- Estudo de IA 
 
 ---
 
@@ -50,7 +54,7 @@ Meu objetivo é evoluir constantemente e transformar conhecimento em soluções 
 
 ## 📌 Projetos em Destaque
 
-🔹 Projeto FastAPI de orders de pizzaria com banco de dados PostgreSQL integrado
+🔹 Projeto API REST para gerenciamento de pedidos (FastAPI, PostgreSQL, autenticação e CRUD completo)
 🔹 Projetos de automação em Python  
 🔹 Estruturação de APIs backend  
 🔹 Projetos voltados para aprendizado contínuo  
