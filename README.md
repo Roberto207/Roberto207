@@ -63,12 +63,12 @@ Meu objetivo é evoluir constantemente e transformar conhecimento em soluções 
 
 - 💼 LinkedIn: www.linkedin.com/in/roberto-caetano-b339ba2bb
 - 🌐 GitHub: https://github.com/Roberto207
+- Telefone / Whatssap : +55 (62) 99439-5922
+- Email : robertocaetano207@gmail.com
 ---
 
 <p align="center">
-  <i>Construindo hoje as habilidades que vão criar as soluções de amanhã.</i>
-</p>
-## Hi there 👋
+ 
 
 <!--
 **Roberto207/Roberto207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
