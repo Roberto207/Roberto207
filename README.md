@@ -66,10 +66,11 @@ Meu objetivo é evoluir constantemente e transformar conhecimento em soluções 
 
 ## 📫 Contato
 
-- 💼 LinkedIn: www.linkedin.com/in/roberto-caetano-b339ba2bb
+- 💼 LinkedIn: https://www.linkedin.com/in/roberto-caetano-207-dev/
 - 🌐 GitHub: https://github.com/Roberto207
-- Telefone / Whatssap : +55 (62) 99439-5922
-- Email : robertocaetano207@gmail.com
+- 📞 Telefone / Whatssap : +55 (62) 99439-5922
+- 📧 Email : robertocaetano207@gmail.com
+- 💼 Portfólio : https://portfoliodev-hqpdodve.manus.space/
 ---
 
 <p align="center">
