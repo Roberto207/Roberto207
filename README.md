@@ -40,25 +40,43 @@ Meu objetivo é evoluir constantemente e transformar conhecimento em soluções 
 - Criação de APIs REST E Banco de Dados 
 - Estruturação de projetos e Databases profissionais  
 - Versionamento e boas práticas com Git  
-- Estudo de IA 
+- Estudos em Inteligência Artificial
+- Desenvolvimento de agentes de IA
+- Aplicações em Visão Computacional
 
 ---
 
-## 📊 Objetivos
-
-✔️ Conquistar minha primeira oportunidade como Backend Developer  
-✔️ Trabalhar com sistemas reais e escaláveis  
-✔️ Aprofundar conhecimentos em backend e arquitetura  
-✔️ Atuar futuramente com Inteligência Artificial  
+## 📊 Objetivos Profissionais
+✔️ Contribuir no desenvolvimento de sistemas robustos e escaláveis em ambiente profissional, aplicando arquitetura moderna com FastAPI, PostgreSQL e infraestrutura cloud-native
+✔️ Consolidar expertise em backend e arquitetura de software, com foco em SaaS multi-tenant, APIs de alta performance e boas práticas de engenharia
+✔️ Evoluir para Engenheiro de Machine Learning/IA, desenvolvendo agentes inteligentes e soluções de visão computacional integradas a sistemas reais — unindo desenvolvimento de software com capacidades preditivas e automação inteligente
 
 ---
 
 ## 📌 Projetos em Destaque
+🔹 SaaS de Agendamentos com Agente de IA via WhatsApp (Em Desenvolvimento)
+Sistema multi-tenant de agendamentos automatizados com Agente de IA próprio para interação em linguagem natural via WhatsApp. Arquitetura robusta com FastAPI, PostgreSQL e SQLAlchemy, focada em escalabilidade SaaS.
+Funcionalidades:
+Agente de IA customizado para agendamentos, remarcações e cancelamentos via WhatsApp
+Sistema multi-tenant com isolamento de dados por empresa (api_key única)
+Gestão completa de empresas, serviços, profissionais e horários de funcionamento
+Integração com Google Sheets e Google Calendar para sincronização
+Autenticação JWT e controle de acesso multi-usuário (Admin, Gerenciador, Operador)
+Tecnologias: FastAPI, SQLAlchemy, Alembic, PostgreSQL, Docker, WhatsApp Webhooks, Google APIs
+Repositório: https://github.com/Roberto207/bot_agendamentos_M1-V1
 
-🔹 Projeto API REST para gerenciamento de pedidos (FastAPI, PostgreSQL, autenticação e CRUD completo)
-🔹 Projetos de automação em Python  
-🔹 Estruturação de APIs backend  
-🔹 Projetos voltados para aprendizado contínuo  
+🔹 API REST - Gestão de Pedidos Pizzaria (Deploy Ativo)
+Desenvolvimento de FastAPI para gerenciamento completo de pedidos de pizzaria, com foco em organização backend, autenticação JWT e integração PostgreSQL.
+Funcionalidades:
+CRUD completo de pedidos, produtos e usuários
+Autenticação e autorização com JWT
+Documentação automática OpenAPI/Swagger
+Tecnologias: FastAPI, PostgreSQL, Supabase, Pydantic, JWT
+Repositório: github.com/Roberto207/FastAPI-Supabase-Pizza-API
+Documentação em Cloud: https://fastapi-supabase-pizza-api-production.up.railway.app/docs
+
+🔹 Projetos de Automação em Python
+Scripts e ferramentas para automação de processos repetitivos, web scraping e integração de APIs.
 
 *(Sempre evoluindo e atualizando meus repositórios.)*
 
