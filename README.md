@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Roberto Caetano Neto</h1>
 
 <p align="center">
-  Estudante • Backend Python Developer em formação
+  Backend Developer & ML Engineer em formação • Construindo sistemas inteligentes e escalaveis
 </p>
 
 ---
@@ -18,14 +18,24 @@ Meu objetivo é evoluir constantemente e transformar conhecimento em soluções 
 
 ## 🛠️ Linguagens e Tecnologias
 
+### Backend & Infra
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,cloud,git,github" />
 </p>
+
+### Data Science & ML
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow" />
+</p>
+<!-- <p align="left">
+  <img src="https://skillicons.dev/icons?i=python,git,github" />
+</p> -->
 
 - Python
 - FastAPI
-- PostgreSQL e SQLAlchemy
-- Railway cloud 
+- SQL, PostgreSQL e SQLAlchemy
+- Docker
+- Deploy em Cloud
 - Integracões   
 - Git & GitHub  
 - Automação com Python  
