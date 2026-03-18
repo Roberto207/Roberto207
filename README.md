@@ -18,14 +18,11 @@ Meu objetivo é evoluir constantemente e transformar conhecimento em soluções 
 
 ## 🛠️ Linguagens e Tecnologias
 
-### Backend & Infra
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,deploy,git,github" />
-</p>
+## 🛠️ Stack Tecnológico
 
-### Data Science & ML
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,scikitlearn,jupyter" />
 </p>
 <!-- <p align="left">
   <img src="https://skillicons.dev/icons?i=python,git,github" />
