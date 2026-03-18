@@ -22,7 +22,7 @@ Meu objetivo é evoluir constantemente e transformar conhecimento em soluções 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,docker,git,github" />
-  <img src="https://skillicons.dev/icons?i=numpy ,pandas ,scikitlearn, jupyter" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,scikitlearn,jupyter" />
 </p>
 <!-- <p align="left">
   <img src="https://skillicons.dev/icons?i=python,git,github" />
