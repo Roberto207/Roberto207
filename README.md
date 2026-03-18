@@ -20,7 +20,7 @@ Meu objetivo é evoluir constantemente e transformar conhecimento em soluções 
 
 ### Backend & Infra
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,cloud,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,deploy,git,github" />
 </p>
 
 ### Data Science & ML
