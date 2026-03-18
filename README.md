@@ -16,15 +16,12 @@ Meu objetivo é evoluir constantemente e transformar conhecimento em soluções 
 
 ---
 
-### 🖥️ Backend & Infra
+### 🖥️ Stack Tecnologico
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,docker,cloudflare,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,docker,cloudflare,git,github,scikitlearn,matplotlib,seaborn" />
 </p>
 
-### 🤖 Data Science & ML
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,pytorch,tensorflow,jupyter" />
-</p>
+
 <!-- <p align="left">
   <img src="https://skillicons.dev/icons?i=python,git,github" />
 </p> -->
@@ -38,6 +35,7 @@ Meu objetivo é evoluir constantemente e transformar conhecimento em soluções 
 - Git & GitHub  
 - Automação com Python  
 - Arquitetura de APIs REST (CRUD, autenticação OAuth2, migrations,JWT)
+- Ciencia de Dados e Machine Learning (Pandas,scikitlearn,matplotlib,seaborn)
  
 
 ---
