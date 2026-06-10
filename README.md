@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Roberto Caetano Neto</h1>
 
 <p align="center">
-  Backend Developer & ML Engineer em formação • Construindo sistemas inteligentes e escalaveis
+  Backend Developer & NLP and RAG learner • Construindo sistemas inteligentes e escalaveis
 </p>
 
 ---
