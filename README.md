@@ -29,25 +29,24 @@ Estou sempre estudando, desenvolvendo projetos próprios e aprimorando minhas ha
 - Docker
 - Deploy em Cloud
 - Arquitetura de APIs REST (CRUD, autenticação OAuth2, migrations, JWT)
-- Ciência de Dados e Machine Learning (Pandas, scikit-learn, matplotlib, seaborn)
-- NLP (Processamento de Linguagem Natural)
+- Ciência de Dados (Pandas, Matplotlib, ETL)
 - Git & GitHub
 
 ---
 
 ## 🎯 Foco Atual
 
-- Sistemas agênticos com tool-use real (implementação própria do loop de raciocínio, sem framework de orquestração pronto)
+- Sistemas agênticos (tool-use ou frameworks)
 - RAG e integração de LLMs em produtos reais
 - APIs REST e bancos de dados em produção
-- Próximo passo técnico: vector database (pgvector) e visão computacional
+
 
 ---
 
 ## 📊 Objetivos Profissionais
 ✔️ Atuar como AI Engineer aplicado: integrar LLMs, orquestrar agentes e levar sistemas de IA até produção — não só prototipar
 ✔️ Consolidar expertise em backend e arquitetura de software (SaaS multi-tenant, APIs de alta performance) como base de engenharia por trás da IA
-✔️ Aprofundar em RAG, embeddings e visão computacional, conectando capacidades preditivas a sistemas reais
+✔️ Aprofundar em RAG, embeddings e conectando capacidades preditivas a sistemas reais
 
 ---
 
@@ -74,7 +73,7 @@ Docs em cloud: https://fastapi-supabase-pizza-api-production.up.railway.app/docs
 
 - 💼 LinkedIn: https://www.linkedin.com/in/roberto-caetano-207-dev/
 - 📧 Email: robertocaetano207@gmail.com
-- 🌐 Portfólio: https://portfoliodev-hqpdodve.manus.space/
+- Telefone: +55 (62) 99439-5922
 
 ---
 
