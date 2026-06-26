@@ -74,6 +74,7 @@ Docs em cloud: https://fastapi-supabase-pizza-api-production.up.railway.app/docs
 - 💼 LinkedIn: https://www.linkedin.com/in/roberto-caetano-207-dev/
 - 📧 Email: robertocaetano207@gmail.com
 - Telefone: +55 (62) 99439-5922
+- Portfólio Web: https://portfo-ihw9c1usp-robertocaetano207-3643s-projects.vercel.app
 
 ---
 
