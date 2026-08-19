@@ -8,8 +8,6 @@
 
 ## 🚀 Sobre mim
 
-Construo sistemas de IA que fazem coisas, não só protótipos de slide.
-
 Sou estudante de Bacharelado em Inteligência Artificial na UFG (Goiânia) e desenvolvedor backend Python. Meu foco é IA aplicada: agentes autônomos, RAG e integração de LLMs em produtos reais.
 
 Estou sempre estudando, desenvolvendo projetos próprios e aprimorando minhas habilidades técnicas — meu objetivo é transformar conhecimento em soluções reais.
