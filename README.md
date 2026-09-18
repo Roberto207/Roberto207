@@ -97,6 +97,7 @@ Tecnologias: FastAPI, PostgreSQL, Supabase, Pydantic, JWT
 - 💼 LinkedIn: https://www.linkedin.com/in/roberto-caetano-207-dev/
 - 📧 Email: robertocaetano207@gmail.com
 - Telefone: +55 (62) 99439-5922
+- 🌐 Portfólio: https://portfo-lio-nine.vercel.app/
 
 ---
 
